@@ -7,6 +7,7 @@ docs = [
     {"item_id": 3},
 ]
 
+
 def get_item(item_id: int) -> ItemResponse:
     """Finds item with item_id"""
     for d in docs:
