@@ -1,0 +1,9 @@
+*.py[cod]
+.pytest_cache
+__pycache__
+
+# OS X
+.DS_Store
+
+# OyCharm
+.idea
